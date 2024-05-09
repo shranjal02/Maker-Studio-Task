@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Maker-Studio-Task/static/css/main.e6c13ad2.css",
+    "main.js": "/Maker-Studio-Task/static/js/main.a20ce9f4.js",
+    "static/js/453.d96da8c0.chunk.js": "/Maker-Studio-Task/static/js/453.d96da8c0.chunk.js",
+    "index.html": "/Maker-Studio-Task/index.html",
+    "main.e6c13ad2.css.map": "/Maker-Studio-Task/static/css/main.e6c13ad2.css.map",
+    "main.a20ce9f4.js.map": "/Maker-Studio-Task/static/js/main.a20ce9f4.js.map",
+    "453.d96da8c0.chunk.js.map": "/Maker-Studio-Task/static/js/453.d96da8c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a20ce9f4.js"
+  ]
+}
